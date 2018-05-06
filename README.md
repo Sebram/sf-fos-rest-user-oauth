@@ -1,3 +1,6 @@
+* 1- Update your .env file.
+* 2- Do a composer update to get all dependancies.
+
 # sf-fos-rest-user-oauth
 A symfony flex based app &amp; fos user-rest &amp; oauth bundles 
 
